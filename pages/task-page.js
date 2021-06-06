@@ -7,7 +7,7 @@ export default function TaskPage() {
       <Link href="/main-page">
         <div className="flex cursor-pointer mt-12">
           <svg
-            class="w-6 h-6 mr-3"
+            className="w-6 h-6 mr-3"
             fill="none"
             stroke="currentColor"
             viewBox="0 0 24 24"
